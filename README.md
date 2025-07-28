@@ -11,11 +11,11 @@
 
 **中文简介**
 
-Irulan智能工作日志系统是一个融合科幻想象与现实应用的智能思维管理平台。受《沙丘》中Princess Irulan启发，系统集成了三大科幻经典作品的智能机制，旨在成为你的智能思维伙伴，记录和分析一切重要的思考与创造过程。
+Irulan智能工作日志系统是一个纯粹的个人思维记录工具。受《沙丘》中Princess Irulan启发，专注于真实记录个人的思考过程和认知成长。**开源只是为了有个地方存储，不考虑任何商业或影响力目的，只是静静地记录记录本身。**
 
 **English Overview**
 
-The Irulan Intelligent Work Journal System is a smart thinking management platform that combines sci-fi imagination with practical applications. Inspired by Princess Irulan from "Dune," the system integrates intelligent mechanisms from three classic sci-fi works, aiming to become your intelligent thinking partner that records and analyzes all important thinking and creative processes.
+The Irulan Intelligent Work Journal System is a pure personal thinking recording tool. Inspired by Princess Irulan from "Dune," it focuses on authentically documenting personal thinking processes and cognitive growth. **Open source is simply for having a place to store, without considering any commercial or influence purposes, just quietly recording the records themselves.**
 
 ---
 
@@ -148,34 +148,34 @@ graph LR
 ## 🎯 使用场景 / Use Cases
 
 ### 适用人群 / Target Users
-- **产品经理**: 长期产品规划和决策分析
-- **技术架构师**: 复杂系统设计的思考追踪
-- **创业者**: 商业模式探索和战略决策
-- **研究人员**: 学术问题的深度思考记录
-- **个人成长者**: 人生规划和能力发展追踪
+- **思考者**: 任何希望深度记录思考过程的人
+- **学习者**: 希望追踪认知成长的个人
+- **创作者**: 需要捕捉创意和灵感的人
+- **研究者**: 进行长期深度思考的人
+- **记录者**: 相信记录本身价值的人
 
 ### 典型场景 / Typical Scenarios
-1. **重大项目规划**: 从创意到执行的完整思考链条
-2. **职业发展决策**: 系统化分析职业选择和发展路径
-3. **技术架构设计**: 长期技术决策的追踪和优化
-4. **创新项目孵化**: 从灵感捕捉到商业化的全过程记录
-5. **个人学习成长**: 知识体系建设和能力发展规划
+1. **深度思考记录**: 复杂问题的思考过程完整记录
+2. **创意捕捉保存**: 转瞬即逝的灵感和想法的及时记录
+3. **学习成长追踪**: 个人认知发展和知识积累的历程记录
+4. **决策过程分析**: 重要选择的推理过程和结果追踪
+5. **纯粹记录存档**: 为了记录本身价值的思维历程保存
 
 ---
 
-## 📈 系统效果 / System Benefits
+## 📈 系统价值 / System Value
 
-### 量化指标 / Quantified Metrics
-- **思考深度提升**: 平均问题思考深度增加40%
-- **决策质量改善**: 重要决策成功率提升35%
-- **创意产出增长**: 有价值创意产生数量增加60%
-- **认知连接增强**: 跨领域知识关联能力提升50%
+### 记录本身的价值 / Value of Recording Itself
+- **思维的外化**: 将内在思考过程转化为可见的记录
+- **认知的沉淀**: 重要洞察和突破的永久保存
+- **成长的见证**: 个人思维发展历程的真实记录
+- **思考的延续**: 过往思考为未来思考提供基础
 
-### 定性收益 / Qualitative Benefits
-- 建立系统性思维习惯
-- 提高复杂问题解决能力
-- 增强创新和洞察能力
-- 优化个人知识管理体系
+### 纯粹的收益 / Pure Benefits
+- 培养深度思考的习惯
+- 提升问题分析的系统性
+- 增强创意捕捉的敏感度
+- 建立个人思维的完整档案
 
 ---
 
@@ -191,23 +191,19 @@ graph LR
 
 ---
 
-## 🤝 参与贡献 / Contributing
+## 🤝 关于分享 / About Sharing
 
-我们欢迎任何形式的贡献！/ We welcome contributions of all kinds!
+这个项目开源是为了纯粹的存储和备份，而非寻求贡献或推广。
 
-### 贡献方式 / How to Contribute
-1. **Fork 项目**
-2. **创建特性分支** (`git checkout -b feature/AmazingFeature`)
-3. **提交改动** (`git commit -m 'Add some AmazingFeature'`)
-4. **推送到分支** (`git push origin feature/AmazingFeature`)
-5. **开启 Pull Request**
+### 如果你发现了这个项目 / If You Found This Project
+- 欢迎使用和参考，但请理解这主要是个人记录工具
+- 如果对你有帮助，那是记录自然分享的美好结果
+- 不需要Star或推广，只需要专注于你自己的记录和思考
 
-### 贡献领域 / Contribution Areas
-- 📝 **模板优化**: 改进现有模板，创建新的使用场景模板
-- 🎨 **可视化增强**: 增加图表、仪表板等可视化元素
-- 🔧 **工具集成**: 开发与其他工具的集成方案
-- 📚 **文档完善**: 改进使用说明，增加最佳实践案例
-- 🌍 **国际化**: 提供更多语言版本支持
+### 纯粹的记录理念 / Pure Recording Philosophy
+- 记录是为了思考本身，不是为了展示
+- 开源是为了安全存储，不是为了影响力
+- 分享是自然结果，不是刻意目的
 
 ---
 
