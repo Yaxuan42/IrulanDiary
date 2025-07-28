@@ -1,0 +1,33 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+*.tmp
+*.temp
+~$*
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Personal sensitive files (if any)
+# personal/
+# private/
+
+# Temporary work files
+temp/
+tmp/
