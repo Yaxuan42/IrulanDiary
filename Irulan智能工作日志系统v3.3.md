@@ -36,7 +36,7 @@ Irulan智能工作日志系统是一个**纯粹的思维记录工具**，受《�
 
 ### 📁 核心文件组织结构
 ```
-📅 工作日志/
+IrulanDiary/
 ├── Irulan智能工作日志系统v3.3.md        # 【主系统文档】本规范说明
 ├── 🧠 长期思考追踪/                      # 【Deep Thought子模块】
 │   ├── Deep-Questions-Registry.md        # Deep Questions注册中心
